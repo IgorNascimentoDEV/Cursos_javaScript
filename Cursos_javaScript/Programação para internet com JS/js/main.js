@@ -1,3 +1,5 @@
+// **********Aula 05 Funções********** //
+
 function clicou(){
       document.getElementById("agredecimento").innerHTML = "<b>Obrigado por clicar</b>";
     //console.log(document.getElementById("agradecimento"));
